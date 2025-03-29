@@ -1,0 +1,7 @@
+Wymgania:
+	Python
+	Pandas
+	sklearn
+	pickle
+	streamlit
+Spoczatku uruchom trenowanieML.ipynb potem app_broken.py
